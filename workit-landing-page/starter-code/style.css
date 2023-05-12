@@ -1,0 +1,36 @@
+.topo_da_pagina{
+    
+    background-color:  #24053E;
+    color:  #FFFFFF;
+    width: 100%;
+    height: 30.10rem;
+    
+}
+
+.inicio_pagina{
+    display: flex;
+    
+
+}
+
+.imagem_celular{
+    margin-top: 26rem;
+    width: 18.64rem;
+    height: 11.13rem;
+    left: 2.25rem;
+    top: 24.31rem;
+        
+    
+}
+
+.meio_pagina{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+}
+.imagem_fundador{
+    width: 16.56rem;
+}
