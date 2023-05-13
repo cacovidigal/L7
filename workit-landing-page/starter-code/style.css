@@ -1,16 +1,32 @@
-.topo_da_pagina{
+body{
+    font-size: 18px;
     
+}
+
+.topo_da_pagina{
+    margin-top: 0rem;
     background-color:  #24053E;
     color:  #FFFFFF;
     width: 100%;
     height: 30.10rem;
     
+    
 }
 
 .inicio_pagina{
     display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    gap: 2rem;
     
-
+    
+}
+.linha_1{
+    font-size: 35px;
+}
+.linha01{
+    font-size: 20px;
+    
 }
 
 .imagem_celular{
