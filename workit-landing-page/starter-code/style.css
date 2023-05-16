@@ -492,3 +492,254 @@ footer{
 
     
 }
+
+@media (min-width: 1140px) {
+
+    
+.topo_da_pagina{
+    margin-top: 0rem;
+    background-color:  #24053E;
+    color:  #FFFFFF;
+    width: 1440px;
+    height: 730px;
+    margin: 0rem;
+    
+    
+}
+
+.inicio_pagina{
+   position: absolute;
+   width: 100%;
+   height: 730px;
+   left: 16px;
+   top: 32px;    
+    
+}
+.linha_1{
+    font-size:45px ;
+    position: absolute;
+    width: 95.76px;
+    height: 24.61px;
+    left: 36px;
+    top: 2px;
+    
+}
+.linha01{
+    font-size: 28px;
+    
+    position: absolute;
+    width: 200px;
+    height: 34px;
+    left: 950px;
+    top: 7px;
+}
+.retangulo{
+    background-color: #44ffa1;
+    width: 180px;
+    height: 3px;
+    left: 950px;
+    position: absolute;
+    top: 35px;
+    
+}
+
+.retangulo_maior{
+    position: absolute;
+    width: 252px;
+    height: 3px;
+    top: 280px;
+    left: 525px;
+    background: #44FFA1;
+}
+
+.saber_mais{
+    position: absolute;
+    text-align: center;
+    padding: 20px;
+    left: 141px;
+    width: 200px;
+    height: 50px;
+    top: 370px;
+    left: 450px;
+    background: #44FFA1;
+    font-size: 35px;
+    
+}
+
+
+.imagem_celular{
+    position: absolute;
+    width: 715px;
+    height: 427px;
+    left: 361px;
+    top: 454px;        
+    
+}
+
+
+.meio_da_pagina_conteiner{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 200px;
+    width: 1114px;
+    
+    
+    
+    
+}
+.texto1_conteiner{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 60px;
+    padding: 5px;
+    margin-left: 30px;  
+   
+}
+
+.circulo1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 35px;
+    height: 35px;
+    border-radius: 30px ;
+    border: solid 1px #24053E;
+    margin-top: 30px;
+    font-size: 30px;
+    text-align: center;
+    gap: 10px;
+}
+.texto1{
+    text-align: center;
+    font-weight: 400;
+    font-size: 18px;
+    color: #584D62;
+    width: 350px;
+    height: 34px;
+    top: 52px;
+}
+.texto2_conteiner{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 60px;
+    padding: 5px;
+    margin-right: 100px; 
+
+}
+
+.circulo2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 35px;
+    height: 35px;
+    border-radius: 30px ;
+    border: solid 1px #24053E;
+    margin-top: 30px;
+    font-size: 30px;
+    text-align: center;
+    gap: 10px;
+}
+.texto2{
+    text-align: center;
+    font-weight: 400;
+    font-size: 18px;
+    color: #584D62;
+    width: 350px;
+    height: 34px;
+    top: 52px;
+}
+.texto3_conteiner{
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+    text-align: center;
+    gap: 60px;
+    padding: 5px;
+    margin-right: 100px; 
+
+}
+
+.circulo3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    width: 35px;
+    height: 35px;
+    border-radius: 30px ;
+    border: solid 1px #24053E;
+    margin-top: 30px;
+    font-size: 30px;
+    text-align: center;
+    gap: 10px;
+}
+.texto3{
+    text-align: center;
+    font-weight: 400;
+    font-size: 18px;
+    color: #584D62;
+    width: 350px;
+    height: 34px;
+    top: 52px;
+}
+
+.imagem_fundador{
+
+    margin-top: 100px;
+    width: 477px;
+    height: 477px;
+    left: 187px;   
+    
+}
+
+
+.texo_fim_da_pagina_conteiner{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    width: 800px;
+    height: 375px;
+    background-color: #24053E;
+    margin-top: -150px;
+    margin-left: 180px;
+    
+}
+.texto1_fim_da_pagina{
+    font-size: 20px;
+    color: white;
+    font-weight: 400;
+    line-height: 25px;
+    padding-top: 76px;
+    padding-left: 100px;
+    padding-right: 1px;
+    width: 600px;
+    text-align: center;
+    
+}
+.texto2_fim_da_pagina{
+    font-size: 20px;
+    font-weight: 700;
+    color: #24053E;
+    width: 172px;
+    height: 55px;
+    background-color: #44FFA1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 200px;
+    margin-right: 1px;
+    text-align: center;
+    margin-top: 60px;
+        
+}
+
+
+    
+}
